@@ -1,0 +1,182 @@
+.img1 {
+    height: 25px; 
+    width: 25px;
+}
+
+.img2 {
+    height: 25px; 
+    width: 25px;
+    display: none;
+}
+
+li .menu-imgs:hover .img1{
+    display: none;
+}
+
+li .menu-imgs:hover .img2{
+    display: inline-flex;
+}
+
+.mb-3 {
+    width: 80%;
+    color: rgb(32, 116, 15);
+}
+
+.mb-4 {
+    width: 100%;
+    color: rgb(32, 116, 15);
+}
+
+.white {
+    color: white;
+}
+
+.red {
+    color: red;
+}
+
+.lozinka_td {
+    background-color: black;
+}
+
+.btn_kosarica{
+    text-decoration: none;
+    width: 80%;
+    background-color: rgb(32, 116, 15); 
+    color: white; 
+    border: 3px solid white;
+    border-radius: 20px;
+}
+
+.btn_kosarica:hover {
+    text-decoration: none;
+    width: 90%;
+    opacity: 0.4;
+    transition: .5s ease;
+    display: block;
+}
+
+.btn_loz{
+    margin-right: auto; 
+    margin-left: auto;
+    text-decoration: none;
+    width: 70%;
+    background-color: rgb(32, 116, 15); 
+    color: white; 
+    border: 3px solid white;
+    border-radius: 20px;
+}
+
+.btn_loz:hover {
+    text-decoration: none;
+    width: 75%;
+    opacity: 0.4;
+    transition: .5s ease;
+    display: block;
+}
+
+.btn_pass{
+    text-decoration: none;
+    width: 30%;
+    background-color: rgb(32, 116, 15); 
+    color: white; 
+    border: 3px solid white;
+    border-radius: 20px;
+}
+
+.btn_pass:hover {
+    text-decoration: none;
+    width: 35%;
+    opacity: 0.4;
+    transition: .5s ease;
+    display: block;
+}
+
+.tipke_div {
+    text-decoration: none;
+    display: table;
+    width: 80%;
+}
+
+.tipke_s_div {
+    text-decoration: none;
+    width: 50%;
+    display: inline-block;
+    text-align: center;
+}
+
+.a_vise {
+    color: white;
+}
+
+.a_vise:hover {
+    background-color: white;
+    color: black;
+}
+
+.a_narudzba {
+    color: white;
+    background-color: rgb(32, 116, 15);
+    text-align: left;
+    border-radius: 20px;
+}
+
+.a_narudzba:hover {
+    background-color: rgb(16, 71, 6);
+}
+
+.dropdown-content {
+    color: white;
+    background-color: rgb(32, 116, 15);
+}
+
+.dropdown-content a:hover {
+    color: white;
+    background-color: rgb(16, 71, 6);
+    transition: .3s ease;
+}
+
+#drop_narudzba {
+    background-color: rgb(80, 80, 80);
+    width: 85%;
+    border-radius: 20px;
+    border: 3px solid white; 
+}
+
+#drop_narudzba:hover {
+    background-color: #212529;
+}
+
+.err_txt {
+    color: red;;
+}
+
+.products_table{
+    border: 3px solid white;
+    margin-left: auto; 
+    margin-right: auto;
+    width: 80%;
+}
+
+.pon_a {
+    color: white;
+}
+
+.pon_a:hover {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    transition: .2s ease;
+}
+
+.drp_tip {
+    font-size: +25px
+}
+
+.num_dod {
+    width: 200px;
+}
+
+.none {
+    text-decoration: none;
+}
